@@ -6,14 +6,15 @@ body {
 }
 
 button {
-  background-color: rgb(59, 57, 57);
+  background-color: rgb(49, 45, 45);
   color: white;
+  cursor: pointer;
   padding: 5px 20px;
   border-radius: 5px;
+  font-size: 15px;
   text-transform: uppercase;
-  cursor: pointer;
 }
 
 input {
-  width: 50px;
+  width: 80px;
 }
